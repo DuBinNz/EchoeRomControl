@@ -12,7 +12,7 @@
     <!--You should have received a copy of the GNU General Public License-->
     <!--along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <resources>
-    <string name="app_name">Rom Control</string>
+    <string name="app_name">EchoeRom Control</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -49,10 +49,10 @@
     <string name="framework_prefs">Framework prefs</string>
     <string name="notification_panel_prefs">Notification panel prefs</string>
     <string name="more_options">More options</string>
-    <string name="set_theme">Set theme</string>
+    <string name="set_theme">Set Theme</string>
     <string name="backup_and_restore"><![CDATA[Backup & Restore]]></string>
     <string name="changelog">Changelog</string>
-    <string name="about_us">About us</string>
+    <string name="about_us">About Echoe</string>
     <string name="confirm_script_dialog_message">"Are you sure you want to run %1$s?"</string>
     <string name="run_script_confirm_dialog_title">Confirmation required</string>
     <string name="run_script_confirm_dialog_positive_button">Yes, run</string>
